@@ -5,12 +5,12 @@
 <p align="center">🤝 Always open to collaborations, discussions, and hackathons</p>
 <p align="center">👯 Love connecting with like-minded people to learn and grow</p>
 <p align="center">🎉 Fun Fact: I'm an anime fan!</p>
-<p align="center">
-
- <a href="https://srujanpr-portfolio.vercel.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<p align="center"> <a href="https://srujanpr-portfolio.vercel.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/srujanpr" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://instagram.com/sruja2401" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 <a href="https://leetcode.com/u/Srujan2401/" target="_blank"><img alt="" src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=white" style="vertical-align:center"/></a></p>
+
+
 
 
 ## Tech Stack 💻
