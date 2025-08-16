@@ -1,3 +1,5 @@
+![Header](./github-header-banner.png)
+
 <h1 align="center"> 👋 Hi, I'm Srujan P R</br> </h1>
 <p align="center">🎓 Information Science Engineer | 📍 JSSATE Bangalore</p>
 <p align="center">🤖 AI/ML Enthusiast | 🌐 Web Development Explorer</p>
