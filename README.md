@@ -77,7 +77,7 @@
 
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrujanPR&theme=tokyonight" width="100%" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrujanPR&theme=slateorange)
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrujanPR&theme=tokyonight&hide_border=true" height="170">
