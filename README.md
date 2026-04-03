@@ -70,12 +70,15 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
 
+---
+
 
 ##   📊 GitHub Stats:
 
-<div align="center">
 
+<div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrujanPR&theme=tokyonight" width="100%" />
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrujanPR&theme=tokyonight&hide_border=true" height="170">
 
@@ -84,6 +87,7 @@
 ---
 
 ## Contribution Graph
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrujanPR&theme=tokyo-night&hide_border=true"/>
 
